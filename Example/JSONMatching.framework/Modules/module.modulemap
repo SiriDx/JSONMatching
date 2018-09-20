@@ -1,0 +1,11 @@
+framework module JSONMatching {
+  umbrella header "JSONMatching.h"
+
+  export *
+  module * { export * }
+}
+
+module JSONMatching.Swift {
+    header "JSONMatching-Swift.h"
+    requires objc
+}
