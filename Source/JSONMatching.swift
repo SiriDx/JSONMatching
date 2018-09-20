@@ -92,7 +92,7 @@ public class JSONMatching: NSObject {
 }
 
 extension JSONMatching {
-    private func dataDecode(dic:[String:Any?], mirror:Mirror) -> [String:Any?] {
+    func dataDecode(dic:[String:Any?], mirror:Mirror) -> [String:Any?] {
         
         var decodedDic = dic
         for (label, propertyValue) in mirror.children {
