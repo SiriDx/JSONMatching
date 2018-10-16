@@ -39,7 +39,7 @@ end
 To use this library in your project manually you may:  
 
 1. for Projects, just drag JSONMatching.swift to the project tree
-2. for Workspaces, include the whole SwiftyJSON.xcodeproj
+2. for Workspaces, include the whole JSONMatching.xcodeproj
 
 ## Usage
 
