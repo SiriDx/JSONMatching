@@ -3,7 +3,7 @@
 ![CocoaPods](https://img.shields.io/cocoapods/v/JSONMatching.svg)
 ![Platform](https://img.shields.io/badge/platforms-iOS%208.0+-333333.svg)
 
-An easy way to decode JSON data into Model object in Swift
+An easy way to decode JSON data into Model object in pure Swift
 
 1. [Requirements](#requirements)
 2. [Integration](#integration)
