@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name        = "JSONMatching"
-s.version     = "1.0.0"
+s.version     = "1.0.2"
 s.summary     = "JSONMatching provide an easy way to decode JSON data into Model object in Swift"
 s.homepage    = "https://github.com/SiriDx/JSONMatching"
 s.license     = { :type => "MIT" }
