@@ -16,7 +16,7 @@ An easy way to decode JSON data into Model object in pure Swift
 
 ## Requirements
 
-- iOS 8.0+
+- iOS 9.0+
 - Xcode 8
 
 ## Integration
